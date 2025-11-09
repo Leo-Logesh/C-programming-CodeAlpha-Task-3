@@ -47,7 +47,7 @@ The program uses:
 3️⃣ Run the program:  
 
 ==============================
-     STUDENT MANAGEMENT SYSTEM
+STUDENT MANAGEMENT SYSTEM
 ==============================
 1. Add Student Record
 2. Display All Records
